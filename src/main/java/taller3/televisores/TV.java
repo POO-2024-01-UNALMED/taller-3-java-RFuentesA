@@ -63,7 +63,7 @@ public class TV{
     numTV = conteo;
   }
 
-  public void tunOn(){
+  public void turnOn(){
     this.estado = true;
   }
   public void turnOff(){
@@ -71,7 +71,7 @@ public class TV{
   }
 
   public boolean getEstado(){
-    return this.estado
+    return this.estado;
   }
 
   public void canalUp(){
