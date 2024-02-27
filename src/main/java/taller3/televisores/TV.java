@@ -57,7 +57,7 @@ public class TV{
   }
 
   public static int getNumTV(){
-    return numtTV;
+    return numTV;
   }
   public static void setNumTV(int conteo){
     numTV = conteo;
