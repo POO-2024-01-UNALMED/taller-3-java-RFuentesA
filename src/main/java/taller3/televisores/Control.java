@@ -16,7 +16,7 @@ package taller3.televisores;
    public void canalUp(){
      tv.canalUp();
    }
-   public void canalDonw(){
+   public void canalDown(){
      tv.canalDown();
    }
    public void volumenUp(){
